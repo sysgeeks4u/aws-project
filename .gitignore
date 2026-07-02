@@ -1,0 +1,8 @@
+#It will ignore .log files and .txt files
+
+*.log
+*.txt
+
+#package files
+*.jar
+*.war
