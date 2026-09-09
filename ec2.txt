@@ -3,3 +3,4 @@ instance Id
 Instance Name
 vpc address: 192.168.0.0/16 #cidr address
 subnet id: id-67ags8288 #192.168.10.0/24
+internetgateway: prod-igw
