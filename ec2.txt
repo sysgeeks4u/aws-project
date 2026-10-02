@@ -1,0 +1,5 @@
+This is ec2 service
+instances
+keypair
+sg
+subnets
