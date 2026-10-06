@@ -1,0 +1,6 @@
+Remove a File From a TAR Archive:
+
+$tar -vf backup.tar --delete aws
+
+$tar -zxvf file.tar.gz --exclude "file_to_exclude"
+
