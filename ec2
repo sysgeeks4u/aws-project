@@ -5,3 +5,4 @@ security Group(SG)
 subnets
 ami
 instance type
+vpc added
